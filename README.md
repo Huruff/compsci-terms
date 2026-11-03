@@ -1,6 +1,7 @@
 # CSRankings
 
-Berikut adalah rincian seluruh sub-bidang dalam CSRankings (Computer Science Rankings) beserta definisi mendasar dan fokus utama dari masing-masing area riset tersebut:
+`CSRangkings` merupakan lembaga(?) `pemeringkatan konferensi` asal US untuk seluruh dunia yang membagi bidang `Computer Science` menjadi 4 bidang. Tiap-tiap major dibagi lagi menjadi beberapa subbidang. \
+Tautan ke CSRankings: https://csrankings.org/
 
 ### AI
 1. **Artificial Intelligence**
