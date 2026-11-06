@@ -6,42 +6,22 @@ Cybersecurity memiliki beberapa jalur karier. Tempat belajarnya sebaiknya dipili
 Ada satu hal penting: belajar cybersecurity bukan hanya belajar cara meretas, tetapi juga memahami cara sistem bekerja, menemukan celah, mencegah serangan, dan menangani insiden.
 1. Perbandingan tempat belajar
 Berikut perbandingan platform online yang bisa digunakan dari Indonesia.
-Platform	Gratis / berbayar	Materi yang dipelajari	Tingkat
-Cisco Networking Academy — Website	Gratis	Networking, dasar cybersecurity, network defense, keamanan jaringan	Pemula
-TryHackMe — Website	Gratis terbatas, Premium berbayar	Linux, networking, Python dasar, penetration testing, SOC, digital forensics, web security	Pemula–menengah
-Hack The Box Academy — Website	Gratis terbatas, banyak materi berbayar	Linux, Windows, Active Directory, penetration testing, privilege escalation, web exploitation	Menengah–lanjut
-PortSwigger Web Security Academy — Website	Gratis	SQL injection, XSS, CSRF, SSRF, authentication, API security, web penetration testing	Pemula–lanjut
-OverTheWire — Website	Gratis	Linux command line, SSH, permission, file system, dasar eksploitasi	Pemula
-Google Cybersecurity Certificate — Website	Berbayar melalui Coursera, tergantung negara dan paket	Security operations, SIEM, Linux, SQL, Python, threat analysis, incident response	Pemula
-Cybrary — Website	Gratis terbatas, Premium berbayar	Security fundamentals, SOC, penetration testing, GRC, certification preparation	Pemula–lanjut
+
+<img width="777" height="447" alt="image" src="https://github.com/user-attachments/assets/f6b8bac1-bf87-4aa1-8ea7-45eba0dc06da" />
 
 Sumber perbandingan: NIST mengumpulkan berbagai sumber pembelajaran cybersecurity gratis dan berbiaya rendah. Perbedaan akses gratis dan berbayar juga dijelaskan dalam perbandingan platform TryHackMe dan Hack The Box. 
 
 NIST+2
 
 2. Trade-off: apa kelebihan dan kekurangan masing-masing?
-Platform	Kelebihan	Kekurangan / trade-off	Yang dikorbankan
-Cisco	Fondasi jaringan terstruktur dan cocok untuk pemula	Praktik hacking tidak sedalam platform lab	Waktu untuk membangun fondasi sebelum praktik lanjutan
-TryHackMe	Belajar sambil praktik, tersedia panduan langkah demi langkah	Sebagian room dan learning path terkunci Premium	Uang jika ingin akses penuh; waktu untuk menyelesaikan lab
-Hack The Box	Simulasi mesin dan serangan yang lebih realistis	Kurang ramah bagi orang yang belum memahami Linux dan networking	Waktu untuk mencari solusi sendiri dan menghadapi kesulitan
-PortSwigger	Materi web security sangat mendalam dan gratis	Fokus pada keamanan aplikasi web, bukan seluruh cybersecurity	Waktu untuk mendalami satu spesialisasi
-OverTheWire	Melatih logika, terminal, dan kemampuan problem solving	Tidak menyediakan kurikulum karier cybersecurity yang lengkap	Kenyamanan karena harus banyak mencoba sendiri
-Google Certificate	Kurikulum terstruktur, penjelasan konseptual dan latihan	Membutuhkan biaya dan tidak menggantikan pengalaman praktik nyata	Uang dan waktu untuk menyelesaikan program
-Cybrary	Banyak pilihan topik dan materi berbasis video	Fitur lab dan pembelajaran lanjutan bisa membutuhkan langganan	Biaya langganan dan waktu menonton materi
 
+<img width="834" height="500" alt="image" src="https://github.com/user-attachments/assets/a1ec9c1b-230c-40de-9231-5007e182c2df" />
 
 TryHackMe+2
+
 3. Kebutuhan dan persyaratan belajar
-Tidak semua platform membutuhkan kemampuan yang sama.
-Kebutuhan	Minimal	Ideal
-Laptop	RAM 8 GB	RAM 16 GB
-Sistem operasi	Windows / Linux	Linux Ubuntu atau Kali Linux dalam virtual machine
-Internet	Stabil	Stabil dan cukup cepat untuk remote labs
-Programming	Belum wajib	Python dasar
-Networking	Memahami IP dan port	TCP/IP, DNS, HTTP/HTTPS, subnetting
-Operating system	Bisa menggunakan komputer	Linux command line dan Windows
-Bahasa Inggris	Memahami instruksi dasar	Mampu membaca dokumentasi teknis
-Biaya	Rp0 bisa mulai	Anggaran opsional untuk kursus dan sertifikasi
+
+<img width="772" height="368" alt="image" src="https://github.com/user-attachments/assets/1731fb51-fe25-4c42-acc5-a3f25004b143" />
 
 Apakah harus bisa coding terlebih dahulu?
 
@@ -111,14 +91,8 @@ Roadmap belajar Cybersecurity
 
 5. Apa yang sebenarnya harus dikorbankan?
 Ini bagian yang menurut saya penting sebelum teman Anda memutuskan belajar cybersecurity.
-Aspek	Pengorbanan
-Waktu	Harus konsisten belajar dan praktik, bukan hanya menonton video
-Uang	Bisa mulai gratis, tetapi sertifikasi dan beberapa lab membutuhkan biaya
-Kenyamanan	Harus terbiasa menghadapi error dan troubleshooting
-Waktu hiburan	Sebagian waktu perlu dialihkan untuk latihan
-Ego	Harus siap tidak mengerti, gagal menyelesaikan lab, dan mencari solusi
-Spesialisasi	Tidak bisa menguasai semua cabang cybersecurity sekaligus
-Etika	Harus mematuhi hukum dan hanya menguji sistem yang memiliki izin
+
+<img width="650" height="321" alt="image" src="https://github.com/user-attachments/assets/8aac7cec-7888-44c5-9e78-f0387e42da43" />
 
 Catatan keamanan: seluruh latihan hacking harus dilakukan di lab yang memang disediakan untuk latihan atau sistem yang secara eksplisit memberikan izin pengujian.
 6. Rekomendasi akhir
@@ -186,12 +160,8 @@ Mengasah kemampuan memecahkan masalah pada mesin simulasi.
 
 7. Satu hal yang perlu ditentukan: ingin menjadi apa?
 Cybersecurity itu luas. Pilihan spesialisasi akan mengubah materi, platform, biaya, dan kemampuan yang harus dipelajari.
-Jalur	Fokus pekerjaan	Contoh kemampuan
-Red Team	Menyerang sistem secara legal untuk menguji keamanan	Penetration testing, exploitation
-Blue Team	Melindungi sistem dari serangan	SIEM, monitoring, incident response
-AppSec	Mengamankan aplikasi	Secure coding, OWASP, API security
-DFIR	Menyelidiki serangan dan bukti digital	Forensics, malware analysis
-GRC	Mengelola risiko dan kepatuhan keamanan	ISO 27001, risk assessment, audit
+
+<img width="808" height="242" alt="image" src="https://github.com/user-attachments/assets/d621a288-405c-4390-bc4d-697d4be5e2b2" />
 
 Saya ingin tahu satu hal: teman Anda lebih tertarik ke arah mana?
 1. Tujuan belajar
